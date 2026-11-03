@@ -34,8 +34,6 @@ The application uses the following categories:
 | CustomTkinter | GUI development |
 | Matplotlib | Data visualization |
 | Tkinter | GUI components |
-| SQLite | Planned database integration |
-| CSV | Planned expense export |
 
 ## Installation and Setup
 
